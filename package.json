@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "bootstrap": "^5.3.3",
+    "html-to-image": "^1.11.13",
+    "html2canvas": "^1.4.1",
+    "i18next": "^24.2.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^15.4.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.3.0",
+    "redux": "^5.0.1",
+    "use-immer": "^0.11.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.0"
+  }
+}
